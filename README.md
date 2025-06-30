@@ -59,8 +59,11 @@ To explore the report:
 ---
 
 ## 📎 Screenshots
+<img width="596" alt="Screenshot MG car" src="https://github.com/user-attachments/assets/9f80a575-5616-49d6-ae9c-400645207db7" />
 
-_Add visuals or screenshots of your dashboard here to show the insights._
+
+
+
 
 ---
 
