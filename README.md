@@ -61,11 +61,17 @@ To explore the report:
 ## 📎 Screenshots
 <img width="596" alt="Screenshot MG car" src="https://github.com/user-attachments/assets/9f80a575-5616-49d6-ae9c-400645207db7" />
 
+## Transform before load
+<img width="848" alt="Screenshot 2025-06-27 092016" src="https://github.com/user-attachments/assets/1a070de9-570f-45d9-8dc3-212e7f19df09" />
 
 
 
 
----
+<img width="857" alt="Screenshot 2025-06-27 100617" src="https://github.com/user-attachments/assets/073ed681-70d9-4b57-ae9b-2c7d74e4c32a" />
+
+
+---<img width="863" alt="Screenshot 2025-06-27 101723" src="https://github.com/user-attachments/assets/d65d98aa-66eb-472a-b890-5fb52c7a4347" />
+
 
 ## 📝 License
 
